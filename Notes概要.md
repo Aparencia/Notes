@@ -2,7 +2,6 @@
 tags:
   - 概要
 更新: 2026-11-18
-TQ_explain: false
 ---
 
 # Vault 概要

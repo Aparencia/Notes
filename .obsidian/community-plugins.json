@@ -1,3 +1,10 @@
 [
-  "hybrid-git-sync"
+  "hybrid-git-sync",
+  "obsidian-tasks-plugin",
+  "quickadd",
+  "templater-obsidian",
+  "periodic-notes",
+  "omnisearch",
+  "dataview",
+  "calendar"
 ]

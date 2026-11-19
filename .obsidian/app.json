@@ -1,4 +1,5 @@
 {
   "showLineNumber": true,
-  "newFileLocation": "folder"
+  "newFileLocation": "folder",
+  "alwaysUpdateLinks": true
 }

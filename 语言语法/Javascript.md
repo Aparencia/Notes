@@ -26,4 +26,12 @@ alert('')，页面弹出警告对话框
 # 内联 js
 代码写在标签内部
 语法：vue 框架会用到这种模式
+# 注释
+## 单行注释
+符号： //
+作用shi
+
+
+
+
 [JavaScript 指南 - JavaScript | MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide...)

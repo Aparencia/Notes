@@ -21,6 +21,7 @@
 代码写在以 js 文件内
 语法：通过 script 标签，引入到 html 页面中
 <script src = 'my.js'></script>
+注意此时，script 标签中间写的代码会被忽略
 alert('')，页面弹出警告对话框
 
 [JavaScript 指南 - JavaScript | MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide...)

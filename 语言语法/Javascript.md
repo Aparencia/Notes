@@ -49,4 +49,9 @@ alert('')，页面弹出警告对话框
 ## 输入语法
 1.prompt('')
 作用：显示一个对话框，对话框中包含一条文字信息，用来提示用户输入文字
+# 代码实行顺序
+按 html 文档流顺序执行 js 代码
+alert、prompt 会跳过页面渲染先被执行
+
+
 [JavaScript 指南 - JavaScript | MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide...)

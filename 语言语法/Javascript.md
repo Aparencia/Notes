@@ -40,8 +40,11 @@ alert('')，页面弹出警告对话框
 语法：人与计算机打交道的规则约定
 ## 输出语法
 1.document.write('')
-
-
-
+作用：向 body 内输出内容
+注意：如果输出的内容写的是标签，也会被解析成网页元素
+2.alert('')
+作用：页面弹出警告对话框
+3.console.log('')
+作用：控制台输出语法，程序员调试使用
 
 [JavaScript 指南 - JavaScript | MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide...)

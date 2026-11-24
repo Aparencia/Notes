@@ -56,4 +56,7 @@ alert、prompt 会跳过页面渲染先被执行
 字面量是在计算机中描述事/物
 包括数字字面量、字符串字面量、数组字面量、对象字面量等等
 
+---
+
+
 [JavaScript 指南 - JavaScript | MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide...)

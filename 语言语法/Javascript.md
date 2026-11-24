@@ -52,6 +52,8 @@ alert('')，页面弹出警告对话框
 # 代码实行顺序
 按 html 文档流顺序执行 js 代码
 alert、prompt 会跳过页面渲染先被执行
-
+# 字面量
+字面量是在计算机中描述事/物
+包括数字字面量、字符串字面量、数组字面量、对象字面量等等
 
 [JavaScript 指南 - JavaScript | MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide...)

@@ -58,9 +58,11 @@ alert、prompt 会跳过页面渲染先被执行
 
 ---
 # 变量
+## 变量是什么
 白话：变量是一个装东西的盒子
 通俗来讲：变量是计算机中用来存储数据的容器，让计算机变得有记忆
 注意：变量不是数据本身，它们仅仅是一个用于存储数值的容器。
 作用：存储数据
+## 变量的基本使用
 
 [JavaScript 指南 - JavaScript | MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide...)

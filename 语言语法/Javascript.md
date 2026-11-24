@@ -69,4 +69,6 @@ alert、prompt 会跳过页面渲染先被执行
 语法：`let 变量名`
 声明变量有两个部分构成：声明关键字、变量名（标识）
 let 即关键字。
+变量赋值：
+定义了一个变量后，就能够初始化它（赋值）。在变量名之后跟上一个“=”，然后数值
 [JavaScript 指南 - JavaScript | MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide...)

@@ -23,5 +23,7 @@
 <script src = 'my.js'></script>
 注意此时，script 标签中间写的代码会被忽略
 alert('')，页面弹出警告对话框
-
+# 内联 js
+代码写在标签内部
+语法：vue 框架会用到这种模式
 [JavaScript 指南 - JavaScript | MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide...)

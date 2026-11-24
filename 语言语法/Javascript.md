@@ -46,5 +46,7 @@ alert('')，页面弹出警告对话框
 作用：页面弹出警告对话框
 3.console.log('')
 作用：控制台输出语法，程序员调试使用
-
+## 输入语法
+1.prompt('')
+作用：显示一个对话框，对话框中包含一条文字信息，用来提示用户输入文字
 [JavaScript 指南 - JavaScript | MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide...)

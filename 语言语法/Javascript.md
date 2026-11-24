@@ -11,3 +11,6 @@
 	+ Web APIs
 		+ DOM 页面文档对象模型
 		+ BOM 浏览器对象模型
+
+
+[JavaScript 指南 - JavaScript | MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide...)

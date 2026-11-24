@@ -64,5 +64,9 @@ alert、prompt 会跳过页面渲染先被执行
 注意：变量不是数据本身，它们仅仅是一个用于存储数值的容器。
 作用：存储数据
 ## 变量的基本使用
- 
+声明变量：
+想要使用变量，首先要创建变量（也称为声明变量或定义变量）
+语法：`let 变量名`
+声明变量有两个部分构成：声明关键字、变量名（标识）
+let 即关键字。
 [JavaScript 指南 - JavaScript | MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide...)

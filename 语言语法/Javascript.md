@@ -72,4 +72,5 @@ let 即关键字。
 变量赋值：
 定义了一个变量后，就能够初始化它（赋值）。在变量名之后跟上一个“=”，然后数值
 注意：通过变量名获取变量值
+变量初始化：在声明变量的同时完成赋值操作
 [JavaScript 指南 - JavaScript | MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide...)

@@ -3,7 +3,7 @@ tags:
   - 概要
 更新: 2026-11-24
 ---
-
+%% Error: Cannot create a waypoint in the root folder of your vault. For more information, check the instructions [here](https://github.com/IdreesInc/Waypoint) %%
 # Notes 概要
 
 ## 一句话

@@ -107,3 +107,6 @@ tags:
 - **诊断还没落地**：11.4-11.21 提出的事件库 / SOP 库 / 行动库、SOP 模板、行动项五要素，库里都还没有对应文件；空壳的 `数据库.base`（一个 table 视图）本来适合承接这件事。
 - **可以合并的两处**：11 的「谈判技术」+ 谈判 + 书籍（《优势谈判》）是同一件事，值得合成一页；11.20 的四个方向各自展开后，正好可以回填 11.10 的扩张计划。
 - **杂物**：根目录空文件夹 `未命名`、`软件开发/未命名.md` 可清理；`未命名` 这个名字出现了两次，容易混淆。
+
+%% Error: Cannot create a waypoint in the root folder of your vault. For more information, check the instructions [here](https://github.com/IdreesInc/Waypoint) %%
+

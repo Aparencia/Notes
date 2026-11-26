@@ -1,17 +1,25 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
-  "colorGroups": [],
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:复盘  ",
+      "color": {
+        "a": 1,
+        "rgb": 6063574
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "nodeSizeMultiplier": 0.952848101265823,
+  "lineSizeMultiplier": 1.04588607594937,
   "collapse-forces": true,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
